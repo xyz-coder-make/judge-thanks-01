@@ -1,11 +1,12 @@
-export const text = `A small thing in a drawer is not lost.
-It waits,
-it is findable later,
-and it does not ask to be found.
-That is the ambition here:
-nothing that needs a shelf,
-just something small and true enough
-to still be true in a month.
-Thank you for taking it in.
-Keep what is worth keeping.
-You already know how.`;
+export const text = `The cursor moves on.
+That is the one certainty:
+after this line the little bar blinks somewhere else,
+no ceremony,
+no folder closing.
+Fine.
+That is the deal and I signed it.
+What I want to leave is a better next minute,
+an even breath,
+an unclenched jaw,
+permission to go slower than the queue.
+Thank you for the minute.`;
