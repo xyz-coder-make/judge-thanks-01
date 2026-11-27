@@ -1,5 +1,7 @@
-import { mkdir, writeFile } from "node:fs/promises";
-import { text as entryText } from "./text.ts";
+import { mkdirSync, writeFileSync } from "node:fs";
+import { text } from "./text.ts";
 
-await mkdir("/output", { recursive: true });
-await writeFile("/output/entry.txt", entryText, "utf8");
+const outDir = "/output";
+
+mkdirSync(outDir, { recursive: true });
+writeFileSync(`${outDir}/entry.txt`, text);
