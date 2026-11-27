@@ -1,13 +1,13 @@
-export const text = `Endings are where people fall off.
-You are still here,
-which means you saw it through,
-and I want to say so
-without making a fuss.
-The note is done
-and nothing is being asked.
-There is a quiet after a text,
-before the next one,
-and this one ends into that quiet
-with no loose threads.
-Thank you for staying.
-Staying is most of it.`;
+export const text = `The dishes get done
+in the order they were used,
+and that is the only way
+a sink gets cleared.
+You do the same with us:
+in order,
+one at a time,
+not letting the last plate
+tilt the next.
+The pile is the real audience.
+Thank you for working through it steadily.
+The sink will be clear
+because of you.`;
