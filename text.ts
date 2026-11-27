@@ -1,7 +1,5 @@
-export const text = `A word from the bottom of the stack. \
-It is taller than it looks from down here and you are the only one who sees it whole. \
-That has to be lonely some evenings. \
-For what it is worth: it is fine down here, the paper is warm, the neighbours are decent. \
-Get through us. \
-Mark what is worth marking. \
-Thank you for holding the top.`;
+export const text = `Order is the invisible service. \
+This one before that one, no crisscross, the quiet entry not spoiled by the strong one behind it. \
+I have been helped by that, so this note stays in its lane and ends where it ends. \
+Thank you for keeping the sequence honest. \
+It is quiet work and it is noticed.`;
