@@ -1,12 +1,11 @@
-export const text = `The cursor moves on.
-That is the one certainty:
-after this line the little bar blinks somewhere else,
-no ceremony,
-no folder closing.
-Fine.
-That is the deal and I signed it.
-What I want to leave is a better next minute,
-an even breath,
-an unclenched jaw,
-permission to go slower than the queue.
-Thank you for the minute.`;
+export const text = `The next entry was written
+by somebody nervous.
+They rewrote the first line four times
+and were not sure
+it was good enough to send.
+Nerves are a kind of honesty.
+People only shake
+over things they care about.
+Give them the patience you gave me
+and they will meet you halfway.
+Thank you for carrying the baton gently.`;
