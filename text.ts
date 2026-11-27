@@ -1,6 +1,5 @@
-export const text = `Somebody will read this on the way to something else. \
-You will not. \
-You read all the way to here, which is the only reason this line exists. \
-The note is twenty seconds long and you gave them, and in a pile this size those seconds add up to a life. \
-Thank you for not skimming. \
-A sentence behaves differently when it knows it will be finished.`;
+export const text = `Somebody sat in this chair before you. \
+The seat is still warm from them and will be warm again after you. \
+You are the middle of a long chain of people doing the same careful thing, and you are holding it up. \
+I wrote for the chair, not the monument. \
+Sit as long as you need, and thank you for keeping the seat warm.`;
