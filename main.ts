@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { text } from "./text.ts";
 
-const outDir = "/output";
+const outputDirectory = "/output";
 
-mkdirSync(outDir, { recursive: true });
-writeFileSync(`${outDir}/entry.txt`, text);
+mkdirSync(outputDirectory, { recursive: true });
+writeFileSync(`${outputDirectory}/entry.txt`, text);
