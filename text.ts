@@ -1,11 +1,12 @@
-export const text = `First pass,
-you find out what a text is.
-Second pass,
-you find out whether it meant it.
-Almost nobody gives me a second pass,
-so this note is built for yours:
-short enough to reread,
-plain enough not to change under the light.
-If a phrase holds up twice,
-keep it.
-Thank you for looking again.`;
+export const text = `Between one entry and the next
+there is a gap with nothing in it,
+and you are the only one
+who stands there.
+No comparison,
+no verdict,
+just the last text settling
+and the next one waiting its turn.
+I hope this one settles lightly.
+Somebody should say
+the gap is part of the work.
+Thank you for standing in it.`;
