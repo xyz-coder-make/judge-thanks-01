@@ -1,13 +1,11 @@
-export const text = `My mug has a chip on the rim
-and I keep drinking
-from the other side.
-You make the same adjustment
-when a sentence arrives clumsy:
-you read around it
-to get at what it meant.
-The chipped side
-still holds tea.
-Thank you for reading
-the middle of things,
-where the good part
-usually hides.`;
+export const text = `First pass,
+you find out what a text is.
+Second pass,
+you find out whether it meant it.
+Almost nobody gives me a second pass,
+so this note is built for yours:
+short enough to reread,
+plain enough not to change under the light.
+If a phrase holds up twice,
+keep it.
+Thank you for looking again.`;
