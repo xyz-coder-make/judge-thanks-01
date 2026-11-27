@@ -6,6 +6,6 @@ You are in the place writers cannot follow,
 the after,
 and it is yours alone.
 Thank you for being the after-reader.
-Sit up.
+Sit tall.
 Look at something that is not a screen.
 Then go be the before-reader for whoever is next.`;
