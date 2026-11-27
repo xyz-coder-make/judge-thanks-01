@@ -1,12 +1,13 @@
-export const text = `Order is the invisible service.
-This one before that one,
-no crisscross,
-the quiet entry not spoiled
-by the strong one behind it.
-I have been helped by that,
-so this note stays in its lane
-and ends where it ends.
-Thank you for keeping
-the sequence honest.
-It is quiet work
-and it is noticed.`;
+export const text = `The reader after the last line
+is not the reader from the first.
+Something shifted,
+and I hope it shifted warm.
+You are in the place
+writers cannot follow,
+the after,
+and it is yours alone.
+Thank you for being the after-reader.
+Sit up.
+Look at something that is not a screen.
+Then go be the before-reader
+for whoever is next.`;
