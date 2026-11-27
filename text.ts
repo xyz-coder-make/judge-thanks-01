@@ -1,11 +1,13 @@
-export const text = `Every entry here costs you the same thing
-and there is no way
-to buy more of it.
-So I tried to be a cheap read:
-no padding,
-no warm-up lap,
-nothing that needs unpacking.
-What is left
-is the part I actually meant.
-Thank you for spending the minutes.
-You could have spent them anywhere.`;
+export const text = `A recipe is a list
+until somebody cooks it.
+A note is words
+until somebody joins them up.
+You do the joining:
+you decide the third line
+belongs with the fifth,
+that the whole thing
+is about one thing.
+I supplied the parts.
+Thank you for making them hold.
+It takes two people
+to make a thing warm.`;
